@@ -32,11 +32,6 @@
                 "style": "link"
             },
             {
-                "label": "Subscribe",
-                "url": "/subscribe",
-                "style": "link"
-            },
-            {
                 "label": "Advertising",
                 "url": "/advertising",
                 "style": "link"
