@@ -6,7 +6,7 @@ sections:
     content: |
       An NFT collection in exceptional art work on the Solana blockchain.
     actions:
-      - label: Subscribe to Podcast
+      - label: MINT
         url: /thank-you
         style: primary
     image: /images/0.png
