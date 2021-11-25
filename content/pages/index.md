@@ -3,7 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Solana Art District
-    subtitle: Optional hero section subtitle
     content: |
       An NFT collection in exceptional art work on the Solana blockchain.
     actions:
