@@ -3,8 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thank You!
-    subtitle: >-
-      Thank you for testing this theme!
+    subtitle: Thank you for minting!
     actions:
       - label: Back to homepage
         url: /
