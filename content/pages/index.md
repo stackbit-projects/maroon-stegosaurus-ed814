@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Solana Art District
     content: |
-      A collection of exceptional art work on the Solana blockchain.
+      An NFT collection of exceptional art work on the Solana blockchain.
     actions:
       - label: MINT
         url: /thank-you
