@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Solana Art District
     subtitle: Optional hero section subtitle
-    content: >
-      An NFT collection for the world interested in exceptional art work on the
-      Solana blockchain.
+    content: |
+      An NFT collection in exceptional art work on the Solana blockchain.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
